@@ -25,6 +25,7 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 8000
+            test1
 
   
   
