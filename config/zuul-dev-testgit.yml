@@ -26,6 +26,7 @@ hystrix:
           thread:
             timeoutInMilliseconds: 8000
             test1
+            test2
 
   
   
